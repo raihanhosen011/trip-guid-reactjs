@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Trip-guid
+
+<img src='https://github.com/raihanhosen011/trip-guid-reactjs/blob/master/website-mockup.png?raw=true' width='80%' alt='website-mockup-img' />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
